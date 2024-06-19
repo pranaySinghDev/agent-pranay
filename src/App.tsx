@@ -189,9 +189,9 @@ function App() {
           <div className="flex justify-center items-center h-full flex-col overflow-y-scroll">
             <div className="prose mx-auto p-6 bg-white shadow-lg rounded-lg">
               <img
-                src="cyberpunk.png"
+                src="pranay.jpg"
                 alt="Secret Llama"
-                className="mx-auto w-32 h-38 rounded-full mb-4 mt-2"
+                className="mx-auto w-42 h-48 rounded-full mb-4 mt-2"
               />
                 <h2 className="text-xl font-semibold mb-4">
                 Greetings, human!
