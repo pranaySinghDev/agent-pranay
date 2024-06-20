@@ -196,14 +196,14 @@ function App() {
                 <h2 className="text-xl font-semibold mb-4">
                 Greetings, human!
                 </h2>
-                <p> I'm PRANAY-800, the virtual clone—smarter than your average toaster, but still working on my dance moves 🕺</p>
-                <p> Ask me questions such as: What is your work experience? What technologies have you worked on? Can you tell me about an interesting bug you've encountered?
+                <p> I'm Pranay AI, a virtual clone — smarter than your average toaster.</p>
+                <p> Ask me questions like: What is your work experience? What technologies have you worked on? Can you tell me about an interesting bug you've encountered?
                 </p>
                 <p className="mb-4">
                   In the war against compromised privacy, I operate entirely within your browser.Our conversations remain safe and sound on your device, never transmitted to external servers.
                 </p>
-                <p className="mb-4 text-gray-600 text-sm">
-                  The first message may take some time to process as the model downloads to your computer. But fear not, soldier! Once armed, future operations will be swift and efficient, loading quickly from your local storage.
+                <p className="mb-3 text-gray-600 text-sm">
+                  *The first message may take some time to process as the model downloads to your computer.
                 </p>
               </div>
           </div>
